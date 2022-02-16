@@ -1,5 +1,8 @@
 # README
 
+Following Tutorial at https://dev.to/lisahjung/beginner-s-guide-to-creating-an-api-from-scratch-using-rails-2eie
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
