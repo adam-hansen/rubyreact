@@ -1,0 +1,2 @@
+class CustomerItem < ApplicationRecord
+end
